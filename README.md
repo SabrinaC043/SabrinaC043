@@ -29,7 +29,9 @@ Determined to create a large impact on the industry, I look forward to aiming hi
 
 Email: SabrinaCarrion43@gmail.com
 
- Linked In: https://www.linkedin.com/in/sabrina-carrion-b1260a71/
+Linked In: https://www.linkedin.com/in/sabrina-carrion-b1260a71/
+ 
+Website: https://www.sabrinacarrion.com
 
 <!---
 SabrinaC043/SabrinaC043 is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
